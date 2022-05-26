@@ -1,0 +1,15 @@
+[
+  {
+    "OS": "Ordnance Survey",
+    "CRS": "Coordinate Reference System",
+    "BNG": "British National Grid",
+    "PSGA": "Public Sector Geospatial Agreement",
+    "NGD": "National Geographic Database",
+    "UAT": "User Access Testing",
+    "TDD": "Test Driven Development",
+    "BDD": "Behaviour Driven Development",
+    "MVP": "Minimum Viable Product",
+    "DPV": "Data Package Version",
+    "COU": "Change Only Updates"
+  }
+]
